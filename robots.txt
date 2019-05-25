@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: http://daikeupak.dlq.ca/sitemap.xml
